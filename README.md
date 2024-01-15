@@ -29,7 +29,7 @@
 - This Project contains analysis of Age, Players & Teams.
 - This Project provides relationship between certain variables.
 - Insights include analysis on the basis of:
-  $ AGE
-  $ PERFORMACE
-  $ TEAM
-  $ POSITIONS
+  - AGE
+  - PERFORMACE
+  - TEAM
+  - POSITIONS
