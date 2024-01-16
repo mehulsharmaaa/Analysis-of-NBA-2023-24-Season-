@@ -1,5 +1,28 @@
 # NBA 2023-24 SEASON ANALYSIS:
 
+- Objective:
+  * Conduct a comprehensive analysis of the NBA 2023-24 season data to derive meaningful insights and trends.
+    
+- Methodology:
+  * Combined Excel for initial data preparation and SQL for in-depth querying, ensuring a systematic and effective analytical approach.
+    
+ - Expected Impact:
+   * The findings are anticipated to contribute to informed decision-making within the basketball community, fostering a deeper understanding of player and team dynamics in the NBA's latest season.
+
+ - Data Cleaning Process:
+   * Utilized Excel for meticulous data cleaning to ensure accuracy and reliability.
+   * Addressed missing values, outliers, and inconsistencies to establish a robust dataset.
+
+ - Database Querying with SQL:
+   * Employed SQL queries to extract valuable information from the refined dataset.
+   * Leveraged structured query language to efficiently retrieve and organize relevant data.
+
+ - Key Focus Areas:
+   * Age Analysis
+   * Player Analysis
+   * Team Analysis
+   * Position Analysis    
+
 - The Raw Dataset ataset includes a table with following columns;
   * Rank
   * Player : Player's name
@@ -25,11 +48,4 @@
   * PTS : Points per game
 
 - Repository Includes scrapped file, Cleaned CSV File and SQL Code for Data Insights.
-- Raw Dataset was cleaned using Excel and then CSV file was imported to SQL for Data Insights.
-- This Project contains analysis of Age, Players & Teams.
-- This Project provides relationship between certain variables.
-- Insights include analysis on the basis of:
-  - AGE
-  - PERFORMACE
-  - TEAM
-  - POSITIONS
+
